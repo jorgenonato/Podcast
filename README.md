@@ -82,7 +82,7 @@ o formato do roteiro deve ser
 4. **"Construa Seu Lar"** - Informações e vantagens do financiamento habitacional.
 5. **"Financiar & Construir"** - Novidades e dicas para seu lar.
 
-##  🤖  Roteiro de Podcast
+##  🤖  Roteiro do Podcast
 
 **[INTRODUÇÃO]**
 Olá, pessoal! Seja bem-vindo ao podcast "Papo de Tijolo", onde desvendamos todas as vantagens e dicas sobre construção com financiamento habitacional! Eu sou Jorge, seu anfitrião, e hoje vamos explorar tudo o que você precisa saber para construir a casa dos seus sonhos com o apoio financeiro certo. Preparado? Então, vamos lá!
