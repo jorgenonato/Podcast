@@ -65,7 +65,7 @@ o formato do roteiro deve ser
 - no bloco [CURIOSIDADE 2] sobre um caso de sucesso de construção com financiamento habitacional
 - no bloco [FINALIZAÇÃO] substitua por uma despedida com o final com nome do canal e a frase 'esse foi o podcast dessa semana'
 - use termos de fácil explicação
-- O podcast vai ser apresentado somente por uma pessoa, chamada X
+- O podcast vai ser apresentado somente por uma pessoa, chamada Jorge
 - O podcast deve ser curto
 
 {REGRAS NEGATIVAS}
