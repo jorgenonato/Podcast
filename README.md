@@ -31,7 +31,7 @@ Utilizado uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🛠️ Instruções de execução do Prompt
 
-### Sugestão de título
+### Sugestão de nomes de podcast
 
 Você é um roteirista de podcast, e vamos criar um podcast de financiamento habitacional, focado em construção e eu gostaria de uma ajuda sua para criar 5 sugestões
 de nomes criativos para um podcast de construção feito por especialista, e que tenha algum trocadilho no nome
