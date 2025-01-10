@@ -31,6 +31,8 @@ Utilizado uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🛠️ Instruções de execução do Prompt
 
+### Sugestão de título
+
 Você é um roteirista de podcast, e vamos criar um podcast de financiamento habitacional, focado em construção e eu gostaria de uma ajuda sua para criar 5 sugestões
 de nomes criativos para um podcast de construção feito por especialista, e que tenha algum trocadilho no nome
 
@@ -72,14 +74,6 @@ o formato do roteiro deve ser
 - Não use muitos termos técnicos
 - Não ultrapasse 3 minutos de duração
 
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-
 ## 👨‍💻 Sugestões de nomes criativos para o podcast:
 
 1. **"Construa com Crédito"** - Tudo sobre financiamento habitacional e construção.
@@ -88,7 +82,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 4. **"Construa Seu Lar"** - Informações e vantagens do financiamento habitacional.
 5. **"Financiar & Construir"** - Novidades e dicas para seu lar.
 
-## 🛠️ Roteiro de Podcast
+##  🤖  Roteiro de Podcast
 
 **[INTRODUÇÃO]**
 Olá, pessoal! Seja bem-vindo ao podcast "Papo de Tijolo", onde desvendamos todas as vantagens e dicas sobre construção com financiamento habitacional! Eu sou Jorge, seu anfitrião, e hoje vamos explorar tudo o que você precisa saber para construir a casa dos seus sonhos com o apoio financeiro certo. Preparado? Então, vamos lá!
